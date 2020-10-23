@@ -6,9 +6,9 @@
 
 The goal of this project is to to predict the location of damage to a car given an image of the damaged car. This information could be used for faster insurance assessment and claims processing.
 
-Part 1 of this project seeks to classify images of cars as damaged or whole. The files for this are in the "supervised learning" folder. In that folder is another folder called "writup" that has a summary report. 
+**Part 1** of this project seeks to classify images of cars as damaged or whole. The files for this are in the "supervised_learning" folder. In that folder is another folder called "supervised_writup" that has a summary report. 
 
-Part 2 applies masking to the images that outlines the damage on the car. The files for this are in the "unsupervised learning" folder. This also has a "writup" folder containing a summary report. 
+**Part 2** applies masking to the images that outlines the damage on the car. The files for this are in the "unsupervised learning" folder. This also has a "writup" folder containing a summary report. 
 
 ## Data
 
